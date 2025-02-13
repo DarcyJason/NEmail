@@ -1,0 +1,12 @@
+/Users/yuzhiqiang/Desktop/NEmail/backend/target/debug/deps/libspin-443ef0d13a76f695.rmeta: /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs
+
+/Users/yuzhiqiang/Desktop/NEmail/backend/target/debug/deps/spin-443ef0d13a76f695.d: /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs /Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs
+
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs:
+/Users/yuzhiqiang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs:

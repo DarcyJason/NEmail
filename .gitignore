@@ -1,2 +1,2 @@
-# backend target
-./backend/target
+# 忽略 backend 目录下的 target 目录
+backend/target

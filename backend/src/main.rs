@@ -1,9 +1,14 @@
+mod config;
 mod routes;
 mod handlers;
 mod models;
+mod database;
 mod middleware;
 mod services;
 mod utils;
+mod tasks;
+mod errors;
+
 
 use axum::{http::{HeaderValue, Method}, routing::get, serve, Router};
 use tower_http::cors::CorsLayer;
